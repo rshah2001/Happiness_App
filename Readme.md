@@ -1,0 +1,1 @@
+# This App shows you the scatter plot of the three items in total that are Happiness, GDP and genrosity and you can plot either of them on X and y axis
